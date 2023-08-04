@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: rgb(21, 41, 219);
+    color: aliceblue;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.principal{
+    padding: 10px;
+
+}
+
+form label{
+    font-size: 20px;
+}
+
+#txtvel{
+    width: 50px;
+    height: 25px;
+    border-radius: 8px;
+}
+
+#ver {
+    background-color: rgb(21, 41, 219);
+    color: aliceblue;
+    width: 70px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+#res{
+    padding: 10px;
+}
+
+#res p{
+    padding-bottom: 20px;
+}
